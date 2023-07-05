@@ -30,3 +30,5 @@ kspaceflight-booking/src/test/java/com/siriusbase/spaceflightbooking/Spaceflight
 gradlew,5\b\5bbfa66edb4db3c7c33c5181f43510990d3307f9
 –
 fspaceflight-booking/src/main/java/com/siriusbase/spaceflightbooking/SpaceflightBookingApplication.java,3\c\3c1a2fc993dcac0ceecfe07d1af9549870f8515c
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
